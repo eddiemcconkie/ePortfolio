@@ -1,3 +1,5 @@
+### [Resume](resume.md)
+
 # Projects and Classwork
 
 ## Object-Oriented Programming
