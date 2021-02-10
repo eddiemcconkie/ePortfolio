@@ -1,3 +1,7 @@
+---
+title: PHP Calendar App
+---
+
 # Chore Management Web App - Chores4Life
 
 ## The Project
