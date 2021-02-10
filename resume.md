@@ -1,7 +1,5 @@
 ---
-theme: jekyll-theme-slate
 title: Resume
-description: Eddie McConkie
 ---
 
 <edwardmcconkie@gmail.com> · 385-424-4367 · [www.linkedin.com/in/edward-mcconkie](www.linkedin.com/in/edward-mcconkie)
