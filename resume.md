@@ -10,6 +10,7 @@ edwardmcconkie@gmail.com · 385-424-4367 · www.linkedin.com/in/edward-mcconkie
 January 2020 – PRESENT
 ### Software Engineering, BYU-Idaho
 **GPA — 4.0**
+
 Coursework:
 - Object-Oriented Programming
 - Algorithm and Modularization Design
@@ -37,7 +38,7 @@ Coursework:
 - C++
 - Python
 - SQL
-- 
+
 **Competent**
 - Java
 - HTML, CSS, JavaScript
