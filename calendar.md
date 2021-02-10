@@ -1,5 +1,5 @@
 ---
-title: PHP Calendar App
+description: PHP Calendar App
 ---
 
 # Chore Management Web App - Chores4Life
