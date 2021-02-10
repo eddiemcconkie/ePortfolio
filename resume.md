@@ -4,7 +4,7 @@ title: Resume
 description: Eddie McConkie
 ---
 
-<edwardmcconkie@gmail.com> · 385-424-4367 · [](www.linkedin.com/in/edward-mcconkie)
+<edwardmcconkie@gmail.com> · 385-424-4367 · [www.linkedin.com/in/edward-mcconkie](www.linkedin.com/in/edward-mcconkie)
 
 ## Education
 
