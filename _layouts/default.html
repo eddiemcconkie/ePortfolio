@@ -6,7 +6,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-
+    
+    <style>
+      nav ul {
+      list-style: none;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(6em, 1fr));
+      margin: 0;
+    }
+    </style>
+      
 {% seo %}
   </head>
 
@@ -20,8 +29,19 @@
           {% endif %}
 
 <!--           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1> -->
-          <h1 id="project_title">{{ page.title | default: site.title }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          <h1 id="project_title">{{ page.title | default: site.github.repository_name }}</h1>
+<!--           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2> -->
+          <h2 id="project_tagline">{{ page.description | default: site.github.project_tagline }}</h2>
+          
+          <nav>
+            <ul>
+              <li><a href="https://eddiemcconkie.github.io/ePortfolio/">Home</a>
+              <li><a href="https://eddiemcconkie.github.io/ePortfolio/resume.html">Resume</a>
+              <li></li>
+              <li></li>
+              <li></li>
+            </ul>
+          </nav>
 
           {% if site.show_downloads %}
             <section id="downloads">

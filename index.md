@@ -1,4 +1,7 @@
-### [Resume](resume.md)
+---
+title: ePortfolio
+description: Eddie McConkie
+---
 
 # Projects and Classwork
 

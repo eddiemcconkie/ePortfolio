@@ -1,5 +1,6 @@
 ---
-title: PHP Calendar App
+title: ePortfolio
+description: PHP Calendar App
 ---
 
 # Chore Management Web App - Chores4Life
@@ -20,5 +21,3 @@ The app allows you to switch between a calendar view and a user view. Tasks are 
 ![](images/Chores4Life_Calendar.png)
 ### User View
 ![](images/Chores4Life_Users.png)
-
-[Back](index.md)
