@@ -3,8 +3,6 @@ title: ePortfolio
 description: Eddie McConkie
 ---
 
-### [Resume](resume.md)
-
 # Projects and Classwork
 
 ## Object-Oriented Programming
