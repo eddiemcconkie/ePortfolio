@@ -9,7 +9,7 @@ description: Eddie McConkie
 
 ### [Moon Lander and Asteroids](asteroids.md)
 
-For my OOP class, we worked on several big projects throughout the semester, including remakes of the classic games *Moon Lander* and *Asteroids*.
+For my OOP class, I worked on several big projects throughout the semester, including remakes of the classic games *Moon Lander* and *Asteroids*.
 
 <img src="images/Asteroids.png" width="400">
 
