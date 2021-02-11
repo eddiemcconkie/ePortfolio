@@ -12,7 +12,7 @@ In the Moon Lander game, you need to maneuver your spacecraft to the landing pad
 - A landing guide that predicts your trajectory and shows the latest time you can activate your engine to avoid crashing.
 - A user interface including a game menu and a fuel meter.
 
-<iframe width=auto height="400" src="https://www.youtube.com/embed/4S6C239ms9Y" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/4S6C239ms9Y" frameborder="0" allowfullscreen></iframe>
 
 ## Asteroids
 
@@ -22,4 +22,4 @@ In the Asteroids game, you fly your spaceship through an asteroid field and can 
 - A system for drawing scalable graphics with OpenGL.
 - Animation and particle effects, game HUD, and menu and button systems.
 
-<iframe width=auto height="400" src="https://www.youtube.com/embed/v7Lh0hoqH3Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/v7Lh0hoqH3Q" frameborder="0" allowfullscreen></iframe>
