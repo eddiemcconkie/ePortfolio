@@ -18,6 +18,7 @@ While my focus is not specifically on Web Development, I have experience learnin
 The app allows you to switch between a calendar view and a user view. Tasks are assigned in the user view, and can be checked off in either view. The calendar view will indicate which days have tasks to be performed, and will show the tasks for all users on that day.
 
 ### Calendar View
-![](images/Chores4Life_Calendar.png)
+<img src="images/Chores4Life_Calendar.png" width="100%">
+
 ### User View
-![](images/Chores4Life_Users.png)
+<img src="images/Chores4Life_Users.png" width="100%">
