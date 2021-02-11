@@ -5,11 +5,11 @@ description: Moon Lander and Asteroids
 
 ## Moon Lander
 
-<iframe max-width="560" max-height="315" src="https://www.youtube.com/embed/4S6C239ms9Y" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/4S6C239ms9Y" frameborder="0" allowfullscreen></iframe>
 
 ## Asteroids
 
-<iframe max-width="560" max-height="315" src="https://www.youtube.com/embed/v7Lh0hoqH3Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/v7Lh0hoqH3Q" frameborder="0" allowfullscreen></iframe>
 
 ### Calendar View
 ![](images/Chores4Life_Calendar.png)
