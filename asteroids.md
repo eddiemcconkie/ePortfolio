@@ -1,17 +1,15 @@
 ---
 title: ePortfolio
 description: Moon Lander and Asteroids
-moonlanderYoutube: https://www.youtube.com/embed/4S6C239ms9Y
-asteroidsYoutube: https://www.youtube.com/embed/v7Lh0hoqH3Q
 ---
 
 ## Moon Lander
 
-{% include youtubePlayer.html id="4S6C239ms9Y %}
+<iframe width="1519" height="553" src="https://www.youtube.com/embed/4S6C239ms9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Asteroids
 
-{% include youtubePlayer.html id="v7Lh0hoqH3Q %}
+<iframe width="1519" height="553" src="https://www.youtube.com/embed/v7Lh0hoqH3Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Calendar View
 ![](images/Chores4Life_Calendar.png)
