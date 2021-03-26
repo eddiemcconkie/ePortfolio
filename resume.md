@@ -17,6 +17,7 @@ GPA — 4.0
 - Algorithm and Modularization Design
 - Databases with MySQL
 - Web Development
+- Software Testing
 - Data Science
 - Digital Systems
 - Technical Teamwork
