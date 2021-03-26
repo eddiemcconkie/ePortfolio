@@ -1,8 +1,7 @@
 ---
+title: CSE 270 - Week 12 Prove: Testing Issue
 markdown: kramdown
 ---
-
-# CSE 270 - Week 12 Prove: Testing Issue
 
 ## Issue Category
 [Article](https://www.stickyminds.com/article/problem-solving-software-testing-conversation) by Ajay Balamurugadas
