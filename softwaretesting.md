@@ -20,8 +20,9 @@ markdown: kramdown
 
 
 ## Identify the Risk
-| **Issue** | **Variables**                                  | **Risk Level** |
+<--| **Issue** | **Variables**                                  | **Risk Level** |-->
 
+| **Issue** | **Variables**                                  | **Risk Level** |
 | 1         | Onboarding process / Workplace capacity        | Medium         |
 | 2         | Cost / usability of new software               | Medium         |
 | 3         | Test documentation / Current testing team      | High           |
