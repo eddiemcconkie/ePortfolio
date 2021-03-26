@@ -20,7 +20,6 @@ markdown: kramdown
 
 
 ## Identify the Risk
-<!--| **Issue** | **Variables**                                  | **Risk Level** |-->
 
 | **Issue** | **Variables**                                  | **Risk Level** |
 | 1         | Onboarding process / Workplace capacity        | Medium         |
