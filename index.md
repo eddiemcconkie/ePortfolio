@@ -17,6 +17,6 @@ For my OOP class, I worked on several big projects throughout the semester, incl
 
 ### [PHP Calendar App](calendar.md)
 
-For my Technical Teamwork class, me and a team of 3 others designed and implemented a Web App for managing chores. I was in charge of the coding, and used PHP to connect the web app to a database. The project took about 2 weeks.
+For my Technical Teamwork class, I worked on a team of 4 to design and implement a Web App for managing chores. I was in charge of the coding, and used PHP to connect the web app to a database. The project took about 2 weeks.
 
 <img src="images/Chores4Life_Calendar.png" width="400">

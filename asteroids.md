@@ -3,7 +3,7 @@ title: ePortfolio
 description: Moon Lander and Asteroids
 ---
 
-For my Object-Oriented Programming class, I worked on several big projects throughout the semester, including remakes of the classic games *Moon Lander* and *Asteroids*. These projects helped me learn OOP principles such as encapsulation and inheritance. I made several additions to the games in order to further develop my programming skills. My projects were written in C++, and used OpenGL for the graphics.
+For my Object-Oriented Programming class, I worked on several big projects throughout the semester, including remakes of the classic games *Moon Lander* and *Asteroids*. These projects helped me learn OOP principles such as encapsulation and inheritance. I made several additions to the games in order to further develop my programming skills. My projects were written in C++, and used OpenGL for the graphics. *Moon Lander* was completed in 2 weeks, and *Asteroids* was completed in 4.
 
 ## Moon Lander
 
