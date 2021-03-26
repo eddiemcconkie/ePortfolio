@@ -1,5 +1,5 @@
 ---
-title: CSE 270 - Week 12 Prove: Testing Issue
+title: "CSE 270 - Week 12 Prove: Testing Issue"
 markdown: kramdown
 ---
 
