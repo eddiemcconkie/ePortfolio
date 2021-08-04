@@ -3,55 +3,40 @@ title: Resume
 description: Eddie McConkie
 ---
 
-<edwardmcconkie@gmail.com> · 385-424-4367 · [www.linkedin.com/in/edward-mcconkie](https://www.linkedin.com/in/edward-mcconkie/)
+<edwardmcconkie@gmail.com> · 385-424-4367 · [www.linkedin.com/in/edward-mcconkie](https://www.linkedin.com/in/edward-mcconkie)
+
+
+## Related Work Experience
+
+**January 2021 – June 2021**
+
+### TA, BYU-Idaho
+-	Classes focused on modularization and algorithm design.
+-	Give feedback on weekly coding assignments to help students learn best coding practices, form good programming habits, and develop problem-solving skills.
+
+**2015 – 2017**
+
+### Instructor, Zaniac
+-	Tutored K-8 Students in programming concepts using Python and Java.
+-	Taught other STEM subjects, such as math, robotics, and science.
+-	Experienced in teaching, working with, and communicating with elementary and middle school kids.
+
 
 ## Education
 
+**January 2020 – Present**
+
 ### Software Engineering, BYU-Idaho
-**January 2020 – PRESENT**
+- GPA – 4.0
+- Worked as a team lead on a semester-long project creating a desktop teaching app (Node.js, Express, WebSockets), and a companion mobile app (Kotlin). GitHub Repo – https://github.com/eddiemcconkie/cse310 
 
-GPA — 4.0
-
-**Coursework:**
-- Object-Oriented Programming
-- Algorithm and Modularization Design
-- Databases with MySQL
-- Web Development
-- Software Testing
-- Data Science
-- Digital Systems
-- Technical Teamwork
-
-## Work Experience
-
-### **Instructor,** Zaniac
-**2015 – 2017**
-
-- Tutored K-8 students in programming concepts using Python and Java.
-- Taught other STEM topics, such as math, robotics,  
-- Experienced in teaching, working with, and communicating with others.
-
-### **Warehouse Associate,** Amazon
-**2020**
-
-- Worked on order fulfillment in a fast-paced environment.
-- Applied good organization and coordination skills.
 
 ## Tools and Skills
-
-**Advanced**
-- C++
-- Python
-- SQL
-
-**Competent**
-- Java
-- HTML, CSS, JavaScript
-- PHP
-
-## Activities
-
-### **Missionary,** The Church of Jesus Christ of Latter-Day Saints in Colombia
-**2017-2019**
-
-- Studied Spanish and learned communication skills within a different culture.
+-	Skilled with HTML, CSS, and JavaScript.
+-	Experience with Node.js, Express, WebSockets.
+-	Basic understanding of React.
+-	Knowledge of relational and NoSQL databases: MySQL and MongoDB.
+-	Proficient in Python: OOP and Data Science.
+-	Some experience with C++, C#, and Java.
+-	Willing and able to learn new technologies quickly.
+-	Experience working with and leading a team on programming projects.
