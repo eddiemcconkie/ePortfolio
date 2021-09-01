@@ -53,4 +53,4 @@ In addition to the class polls, we added functionality for the teacher to share 
 
 Our development period was limited to 12 weeks, and we were unable to implement everything that we had planned. The project was intended less as a final product for an actual classroom and more as a way for us to learn new technologies and development skills as a team.
 
-#### *The full project can be found here on [GitHub](https://github.com/eddiemcconkie/cse310)*
+#### The full project can be found here on [GitHub](https://github.com/eddiemcconkie/cse310)
