@@ -36,9 +36,7 @@ The mobile app was developed using Kotlin.
 *Students enter their name and are taken to a waiting room until the teacher begins the class.*
 
 <img src="images/mobileapp02.png" width="49%">
- <!-- style="display: inline-block"> -->
 <img src="images/mobileapp03.png" width="49%">
- <!-- style="display: inline-block"> -->
 
 
 ## Quiz/Poll Activities
@@ -55,4 +53,4 @@ In addition to the class polls, we added functionality for the teacher to share 
 
 Our development period was limited to 12 weeks, and we were unable to implement everything that we had planned. The project was intended less as a final product for an actual classroom and more as a way for us to learn new technologies and development skills as a team.
 
-The full project can be found here on [GitHub](https://github.com/eddiemcconkie/cse310)
+#### *The full project can be found here on [GitHub](https://github.com/eddiemcconkie/cse310)*
