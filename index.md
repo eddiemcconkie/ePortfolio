@@ -6,7 +6,21 @@ description: Eddie McConkie
 # Projects and Classwork
 
 
-## Web Development
+## Personal Projects
+
+### [Web Frontend Development](frontend.md)
+
+My Web Frontend Development course focused on designing and building webpages. The two major projects I worked on were a Chamber of Commerce website and a Weather site.
+
+
+### [Moon Lander and Asteroids](asteroids.md)
+
+For my OOP class, I worked on several big projects throughout the semester, including remakes of the classic games *Moon Lander* and *Asteroids*.
+
+<img src="images/Asteroids.png" width="400">
+
+
+## Team Projects
 
 ### [Dolphin Pods](dolphinpods.md)
 
@@ -21,12 +35,4 @@ For my Technical Teamwork class, I worked on a team of 4 to design and implement
 
 <img src="images/Chores4Life_Calendar.png" width="400">
 
-
-## Object-Oriented Programming
-
-### [Moon Lander and Asteroids](asteroids.md)
-
-For my OOP class, I worked on several big projects throughout the semester, including remakes of the classic games *Moon Lander* and *Asteroids*.
-
-<img src="images/Asteroids.png" width="400">
 

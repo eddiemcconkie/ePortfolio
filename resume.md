@@ -8,6 +8,13 @@ description: Eddie McConkie
 
 ## Related Work Experience
 
+**October 2021 – Present**
+
+### Instructor, Juni Learning
+-	Teach weekly one-on-one Python and JavaScript programming courses (remote).
+-	Help elementary and high school students learn and develop strong beginner programming skills.
+
+
 **January 2021 – June 2021**
 
 ### TA, BYU-Idaho
@@ -32,11 +39,10 @@ description: Eddie McConkie
 
 
 ## Tools and Skills
--	Skilled with HTML, CSS, and JavaScript.
+-	Skilled with HTML, CSS, and JavaScript, as well as the React framework.
 -	Experience with Node.js, Express, WebSockets.
--	Basic understanding of React.
--	Knowledge of relational and NoSQL databases: MySQL and MongoDB.
 -	Proficient in Python: OOP and Data Science.
 -	Some experience with C++, C#, and Java.
 -	Willing and able to learn new technologies quickly.
 -	Experience working with and leading a team on programming projects.
+
