@@ -4,10 +4,10 @@ description: Web Frontend Development
 ---
 
 ## Chamber of Commerce website
+### [SLC Chamber](https://eddiemcconkie.github.io/wdd230/chamber/)
 
 The final project for my Web Development course was to create a Chamber of Commerce website. The website is meant to attract companies who want to benefit the community. It provides advertising, a business directory, upcoming local events, and a page where you can become a member.
 
-[SLC Chamber](https://eddiemcconkie.github.io/wdd230/chamber/)
 
 
 ### Figma Prototype
@@ -16,7 +16,6 @@ The final project for my Web Development course was to create a Chamber of Comme
 
 
 ## Weather site
+### [Chill Earth](https://eddiemcconkie.github.io/wdd230/lesson11/)
 
 One of the semester's projects was to create a Weather site. It provides current weather summaries and forecasts, as well as information about each town's upcoming events.
-
-[Chill Earth](https://eddiemcconkie.github.io/wdd230/lesson11/)
